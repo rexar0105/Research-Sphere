@@ -31,3 +31,20 @@ This project allows users to search research papers, visualize related works in 
 ---
 
 ## 📂 Project Structure
+Research Rabbit Clone/
+│
+├── backend/ # Node.js + Express API
+│ ├── server.js # Entry point
+│ ├── routes/ # API routes
+│ ├── models/ # Mongoose schemas
+│ ├── controllers/ # Route controllers
+│ ├── middleware/ # Auth middleware
+│ └── config/ # DB & config files
+│
+└── frontend/ # React app
+├── src/
+│ ├── components/ # UI components
+│ ├── pages/ # Pages & screens
+│ ├── services/ # API calls
+│ └── App.jsx
+└── vite.config.js
