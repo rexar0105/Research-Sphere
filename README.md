@@ -1,4 +1,4 @@
-# 📚 ResearchRabbit Clone (MVP)
+# 📚 ResearchSphere (MVP)
 
 A minimal open-source clone of [ResearchRabbit](https://researchrabbit.ai/) — built with **Node.js**, **Express**, **MongoDB**, and **React**.  
 This project allows users to search research papers, visualize related works in a graph, and save them into collections.
